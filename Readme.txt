@@ -1,0 +1,3 @@
+第一次使用GitHub，一切都在探索中…
+
+It was the first time to learn to use GitHub. Everything is funny!
